@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hero {
+    background-image: linear-gradient( rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url('/image/about_img_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    
+}
+
+
+/* .img {
+    background-image: url('/image/slide-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+
+} */
